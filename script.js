@@ -16,7 +16,6 @@ if (currentHour < 6) {
 } else {
     greeting = "Good evening";
 }
-
 welcomeHeading.innerText = `${greeting}, ${user}!`;
 welcomeMessage.innerText = "Welcome to our website!";
 // 4r3_c0mm3nt3d}
